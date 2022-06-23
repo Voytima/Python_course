@@ -1,0 +1,2 @@
+Hi for all who survived to lesson 6.
+Working with files.
